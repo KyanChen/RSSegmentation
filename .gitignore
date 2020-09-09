@@ -1,3 +1,2 @@
 .gitignore
-11.txt
-test
+*.pth
